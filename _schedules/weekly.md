@@ -1,6 +1,5 @@
 ---
 timeline:
-  - '8:00 AM'
   - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
@@ -29,6 +28,16 @@ schedule:
         location: CSE2 G20
   - name: Tuesday
   - name: Wednesday
+    events:
+      - name: Lecture
+        start: 8:30 AM
+        end: 9:20 AM
+        location: CSE2 G20
   - name: Thursday
   - name: Friday
+    events:
+      - name: Lecture
+        start: 8:30 AM
+        end: 9:20 AM
+        location: CSE2 G20
 ---
