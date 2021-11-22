@@ -25,5 +25,8 @@ schedule:
         start: 8:30 AM
         end: 9:20 AM
         location: CSE2 G20
-
+  - name: Tuesday
+  - name: Wednesday
+  - name: Thursday
+  - name: Friday
 ---
