@@ -55,8 +55,8 @@ schedule:
         end: 2:20 PM
         location: ARC 160
       - name: Section E
-        start: 2:30 AM
-        end: 2:20 PM
+        start: 2:30 PM
+        end: 3:20 PM
         location: MOR 225
   - name: Friday
     events:
