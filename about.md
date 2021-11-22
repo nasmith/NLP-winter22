@@ -18,7 +18,7 @@ description: >-
 
 ## Goals of the Course
 
-Natural language processing (NLP) seeks to endow computers with the ability to intelligently process human language. NLP components are used in conversational agents and other systems that engage in dialogue with humans, automatic translation between human languages, automatic answering of questions using large text collections, the extraction of structured information from text, tools that help human authors, and many, many more. This course will teach you the <b>fundamental ideas</b> used in key NLP components. It is organized into several “greatest hits” topics, each with a prerecorded video lecture and associated readings, problems, and implementation exercises.
+Natural language processing (NLP) seeks to endow computers with the ability to intelligently process human language. NLP components are used in conversational agents and other systems that engage in dialogue with humans, automatic translation between human languages, automatic answering of questions using large text collections, the extraction of structured information from text, tools that help human authors, and many, many more. This course will teach you the <b>fundamental ideas</b> used in key NLP components. It is organized into several “greatest hits” topics, each with a more-or-less self-contained lecture and associated readings, problems, and implementation exercises.
 
 
 ## 447 vs. 517
