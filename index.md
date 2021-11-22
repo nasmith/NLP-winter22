@@ -17,7 +17,20 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## Useful Links
+
+
+
+
+## Goals of the Course
+
+Natural language processing (NLP) seeks to endow computers with the ability to intelligently process human language. NLP components are used in conversational agents and other systems that engage in dialogue with humans, automatic translation between human languages, automatic answering of questions using large text collections, the extraction of structured information from text, tools that help human authors, and many, many more. This course will teach you the <b>fundamental ideas</b> used in key NLP components. It is organized into several “greatest hits” topics, each with a prerecorded video lecture and associated readings, problems, and implementation exercises.
+
+
+## Acknowledgments
+
+This site was built using [Kevin Lin](https://kevinl.info/about/)'s package [Just the Class](https://github.com/kevinlin1/just-the-class), which is built on [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
@@ -62,4 +75,4 @@ $ bundle exec jekyll serve
 1. Point your web browser to [http://localhost:4000](http://localhost:4000)
 1. Reload your web browser after making a change to preview its effect.
 
-For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+For more information, refer to
