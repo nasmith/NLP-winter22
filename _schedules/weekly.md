@@ -38,7 +38,7 @@ schedule:
         end: 9:20 AM
         location: CSE2 G20
   - name: Thursday
-     events:
+    events:
       - name: Section A
         start: 10:30 AM
         end: 11:20 AM
