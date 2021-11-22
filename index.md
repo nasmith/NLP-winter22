@@ -36,6 +36,7 @@ Coming soon:
 
 This site was built using [Kevin Lin](https://kevinl.info/about/)'s package [Just the Class](https://github.com/kevinlin1/just-the-class), which is built on [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
+<!---
 
 ## Ignore the rest of this; to be deleted
 
@@ -83,3 +84,4 @@ $ bundle exec jekyll serve
 1. Reload your web browser after making a change to preview its effect.
 
 For more information, refer to
+--->

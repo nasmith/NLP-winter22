@@ -43,7 +43,7 @@ You are encouraged to come to live lectures and participate in the discussions. 
 
 ## Grades
 
-You will be evaluated based on individually completed assignments (50%), a project completed in a team of three (40%), and participation/quizzes (10%).
+You will be evaluated based on individually completed assignments (50%), a project completed in a team of three (40%), and quizzes (10%).  Course staff may grant extra credit (up to 5%) to students who actively and meaningfully engage on the course discussion board.
 
 ### Assignments
 
@@ -52,6 +52,10 @@ There will be nine graded assignments, roughly one per week.  You are encouraged
 ### Project 
 
 Details on the projects for CSE 447 and CSE 517 will be added here.  Project deliverables must be turned in on time; there will be zero credit for late submissions.
+
+### Quizzes
+
+There will be quizzes posted on Canvas, roughly once per week.  These are not graded; as long as you submit an attempt, you will earn full credit for the quiz.
 
 ## Resources
 
