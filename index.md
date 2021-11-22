@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Natural Language Processing
 nav_exclude: true
 seo:
   type: Course
