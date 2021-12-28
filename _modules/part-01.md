@@ -2,17 +2,17 @@
 title: Classification and Multinomial Logistic Regression
 ---
 
-5 Jan
+W 5 Jan
 : **Virtual**{: .label .label-purple }  Lecture; read Eisenstein chapter 2, appendix B, and (suggested) chapter 4; [video from 2021](https://drive.google.com/file/d/1Luwa-sn4t2Hu6IA_-cUWXaDvMkpft9E4/view?usp=sharing); [with captions](https://drive.google.com/file/d/1iRFKwz8IInkjDFWB5rU7RO9tGtVna6wF/view?usp=sharing); [transcript](https://drive.google.com/file/d/1cxtCdPySB1PL72EQSWJOy2tpGkf0kYWK/view?usp=sharing); [slides](https://drive.google.com/file/d/1u3hyvV7bnh11yY6jCOnKOzWyWU8yPw6u/view?usp=sharing)
 
-6 Jan
+Th 6 Jan
 : **Virtual**{: .label .label-purple } **Section**{: .label .label-purple } [Gradient descent](#) 
 
-7 Jan 
+F 7 Jan 
 : **Virtual**{: .label .label-purple }  Lecture 
 
-10 Jan
+M 10 Jan
 : Lecture
 
-12 Jan
+W 12 Jan
 : [A1](assets/docs/A1.pdf) is due at 11:59 pm **deadline**{: .label .label-red }

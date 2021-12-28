@@ -2,7 +2,7 @@
 title: Introduction and Logistics
 ---
 
-3 Jan
+M 3 Jan
 : **Virtual**{: .label .label-purple } Lecture
   : Read, sign, and submit (through Canvas) the
   [academic integrity document](assets/docs/academic-integrity.pdf);
