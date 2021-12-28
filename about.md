@@ -47,18 +47,18 @@ You will be evaluated based on individually completed assignments (50%), a proje
 
 ### Assignments
 
-There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will not receive any points.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.
+There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will not receive any points.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.  **Deadlines are shown on the [course calendar](calendar).**
 
 - [Assignment 0](assets/docs/A0.pdf), which is ungraded, is a tool for you to assess your preparedness for this course.
-- Assignment 1
-- Assignment 2
-- Assignment 3
-- Assignment 4
-- Assignment 5
-- Assignment 6
-- Assignment 7
-- Assignment 8
-- Assignment 9
+- [Assignment 1](assets/docs/A1.pdf)
+- [Assignment 2](assets/docs/A2.pdf)
+- [Assignment 3](assets/docs/A3.pdf)
+- [Assignment 4](assets/docs/A4.pdf)
+- [Assignment 5](assets/docs/A5.pdf)
+- [Assignment 6](assets/docs/A6.pdf)
+- [Assignment 7](assets/docs/A7.pdf)
+- [Assignment 8](assets/docs/A8.pdf)
+- [Assignment 9](assets/docs/A9.pdf)
 
 ### Project 
 
