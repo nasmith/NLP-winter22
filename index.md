@@ -20,7 +20,7 @@ seo:
 ## Useful Links
 
 - [Zoom join link](https://washington.zoom.us/j/92062223315) for the
-  first week of classes, which will be online.
+  first week of classes, which will be online
 - This course's [Canvas page](https://canvas.uw.edu/courses/1515305)
 
 Coming soon:
