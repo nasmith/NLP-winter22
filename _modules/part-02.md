@@ -29,4 +29,4 @@ title: Language Modeling
 : Lecture
 
 26 Jan
-: [A3](assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A3](assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }

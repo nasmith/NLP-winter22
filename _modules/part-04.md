@@ -10,7 +10,7 @@ title: Morphology and Weighted Finite-State Transducers
 : Lecture
 
 9 Feb
-: [A5](assets/docs/A5.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A5](assets/docs/A5.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 10 Feb
 : **Section**{: .label .label-purple } [Finite-state machines](#)

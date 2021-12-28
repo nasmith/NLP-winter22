@@ -30,7 +30,7 @@ Additionally, there will be differences in the assignments.
 
 ## Lectures
 
-You are encouraged to come to live lectures and participate in the discussions.  Videorecorded lectures from 2021 are provided as a supplementary resource.
+You are encouraged to come to live lectures and participate in the discussions.  Videorecorded lectures from 2021 are provided as a supplementary resource.  Note that the ordering of the lectures may be slightly different year to year, especially later in the quarter.
 
 1. [Classification and multinomial logistic regression](https://drive.google.com/file/d/1Luwa-sn4t2Hu6IA_-cUWXaDvMkpft9E4/view?usp=sharing); [with captions](https://drive.google.com/file/d/1iRFKwz8IInkjDFWB5rU7RO9tGtVna6wF/view?usp=sharing); [transcript](https://drive.google.com/file/d/1cxtCdPySB1PL72EQSWJOy2tpGkf0kYWK/view?usp=sharing); [slides](https://drive.google.com/file/d/1u3hyvV7bnh11yY6jCOnKOzWyWU8yPw6u/view?usp=sharing)
 1. [Language modeling, especially with neural networks](https://drive.google.com/file/d/1cK43rSzH491oI9NIrLlDAeP8P2F7LXTJ/view?usp=sharing); [with captions](https://drive.google.com/file/d/17_YfmZPma6AwwjA5wuUSVzJjL6Nblcf1/view?usp=sharing); [transcript](https://drive.google.com/file/d/1hweCGRWzlIYqvN1uINPICtZp46KpOY1s/view?usp=sharing); [slides](https://drive.google.com/file/d/15xk-qyd3DFBLBYlTBDegfuZJKElJxuk4/view?usp=sharing) 

@@ -16,7 +16,7 @@ title: Vector Embeddings
 : Lecture
 
 2 Feb
-: [A4](assets/docs/A4.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A4](assets/docs/A4.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 3 Feb
 : **Section**{: .label .label-purple } [Vector embeddings](#)

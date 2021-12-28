@@ -16,8 +16,8 @@ title: Sequence Labeling and Conditional Random Fields
 : **Section**{: .label .label-purple } [Conditional random fields](#)
 
 18 Feb
-: [A6](assets/docs/A6.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A6](assets/docs/A6.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 25 Feb
-: [A7](assets/docs/A7.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A7](assets/docs/A7.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 

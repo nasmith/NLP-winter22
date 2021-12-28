@@ -25,6 +25,6 @@ title: Syntax, Semantics, and Linguistic Structure Prediction
 : Lecture
 
 4 Mar
-: [A8](assets/docs/A8.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A8](assets/docs/A8.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 

@@ -16,6 +16,6 @@ title: Translation and Sequence-to-Sequence Models
 : Lecture
 
 11 Mar
-: [A9](assets/docs/A9.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+  : [A9](assets/docs/A9.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 
