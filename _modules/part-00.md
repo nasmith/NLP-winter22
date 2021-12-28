@@ -3,7 +3,6 @@ title: Introduction and Logistics
 ---
 
 M 3 Jan
-: **Virtual**{: .label .label-purple } Lecture
-  : Read, sign, and submit (through Canvas) the
+: **Virtual**{: .label .label-purple } Lecture; read, sign, and submit (through Canvas) the
   [academic integrity document](assets/docs/academic-integrity.pdf);
   read Eisenstein chapter 1; [complete and evaluate A0](assets/docs/A0.pdf)
