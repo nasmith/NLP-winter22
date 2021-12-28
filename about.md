@@ -47,7 +47,7 @@ You will be evaluated based on individually completed assignments (50%), a proje
 
 ### Assignments
 
-There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will not receive any points.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.  **Deadlines are shown on the [course calendar](../calendar).**
+There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will receive a zero.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  (This means that your highest-graded two assignments will be worth 11.11% of your grade, the middle five will be worth 5.56% of your grade, and the worst-graded two will be worth 0% of your grade.)  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.  **Assignment deadlines are shown on the [course calendar](../calendar).**
 
 - [Assignment 0](assets/docs/A0.pdf), which is ungraded, is a tool for you to assess your preparedness for this course.
 - [Assignment 1](assets/docs/A1.pdf)
@@ -62,11 +62,13 @@ There will be nine graded assignments, roughly one per week.  You are encouraged
 
 ### Project 
 
-Details on the projects for CSE 447 and CSE 517 will be added here.  Project deliverables must be turned in on time; there will be zero credit for late submissions.
+Details on the projects for CSE 447 and CSE 517 will be added here.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
+
+- [Individual project updates](https://forms.gle/BEbvYMVHEyyxSRD47).
 
 ### Quizzes
 
-There will be quizzes posted on Canvas, roughly once per week.  These are not graded; as long as you submit an attempt, you will earn full credit for the quiz.
+There will be quizzes posted on Canvas, roughly once per week.  These are not graded on correctness; as long as you submit an attempt on time, you will earn full credit for the quiz.
 
 ## Resources
 
