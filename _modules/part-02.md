@@ -16,8 +16,7 @@ title: Language Modeling
   : No lecture (MLK holiday)
 
 19 Jan
-: Lecture
-  : [A2](assets/docs/A2.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+: Lecture; [A2](assets/docs/A2.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 20 Jan
 : **Section**{: .label .label-purple } [Neural language models](#)
@@ -29,4 +28,4 @@ title: Language Modeling
 : Lecture
 
 26 Jan
-  : [A3](assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+: [A3](assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
