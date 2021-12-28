@@ -49,6 +49,17 @@ You will be evaluated based on individually completed assignments (50%), a proje
 
 There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will not receive any points.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.
 
+- [Assignment 0]{assets/docs/A0.pdf}, which is ungraded, is a tool for you to assess your preparedness for this course.
+- Assignment 1
+- Assignment 2
+- Assignment 3
+- Assignment 4
+- Assignment 5
+- Assignment 6
+- Assignment 7
+- Assignment 8
+- Assignment 9
+
 ### Project 
 
 Details on the projects for CSE 447 and CSE 517 will be added here.  Project deliverables must be turned in on time; there will be zero credit for late submissions.

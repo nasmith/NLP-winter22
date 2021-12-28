@@ -22,11 +22,11 @@ seo:
 - [Zoom join link](https://washington.zoom.us/j/92062223315) for the
   first week of classes, which will be online
 - This course's [Canvas page](https://canvas.uw.edu/courses/1515305)
+- [Petition for an add code](https://forms.gle/zXqCXoZbopS5qgvp6)
+  (closes at 5pm Pacific time on January 5)
 
 Coming soon:
 
-- Petition for an add code for CSE 447 (for people who aren't CSE majors)
-- Petition for an add code for CSE 517 (for people who aren't CSE Ph.D. students)
 - Ed discussion board
 - Request a private meeting with course staff
 - Guide to computing infrastructure
