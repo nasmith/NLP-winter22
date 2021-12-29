@@ -17,6 +17,3 @@ Th 17 Feb
 F 18 Feb
 : [A6](assets/docs/A6.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
-F 25 Feb
-: [A7](assets/docs/A7.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
-

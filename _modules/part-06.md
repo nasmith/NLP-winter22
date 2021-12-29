@@ -21,7 +21,7 @@ Th 24 Feb
 : **Section**{: .label .label-purple } [Linguistic structure prediction](#)
 
 F 25 Feb
-: Lecture
+: Lecture; [A7](assets/docs/A7.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 F 4 Mar
 : [A8](assets/docs/A8.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
