@@ -65,6 +65,7 @@ There will be nine graded assignments, roughly one per week.  You are encouraged
 Details on the projects for CSE 447 and CSE 517 are given in the instructions documents below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
 
 - [CSE 447 project instructions](assets/docs/project-447.pdf)
+- [CSE 517 project instructions](assets/docs/project-517.pdf) and [latex template](assets/templates/project-517.tgz)
 - [Individual project updates](https://forms.gle/5sT36SqxhDKzgn259)
 
 
