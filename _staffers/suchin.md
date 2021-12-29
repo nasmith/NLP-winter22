@@ -1,6 +1,6 @@
 ---
 name: Suchin Gururangan
-role: TA
+role: Teaching Assistant
 email: sg01@cs.washington.edu
 website: https://suchin.io
 photo: suchin.jpg
