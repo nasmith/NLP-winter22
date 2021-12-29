@@ -18,7 +18,7 @@ M 21 Feb
 : No lecture (university holiday)
 
 W 23 Feb
-: Lecture
+: Lecture; [CSE 517 project version 1](assets/docs/project-517.pdf) at 11:59 pm  **deadline**{: .label .label-red }
 
 Th 24 Feb
 : **Section**{: .label .label-purple } [Linguistic structure prediction](#)
