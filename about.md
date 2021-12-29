@@ -47,18 +47,18 @@ You will be evaluated based on individually completed assignments (50%), a proje
 
 ### Assignments
 
-There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will receive a zero.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  (This means that your highest-graded two assignments will be worth 11.11% of your grade, the middle five will be worth 5.56% of your grade, and the worst-graded two will be worth 0% of your grade.)  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.  **Assignment deadlines are shown on the [course calendar](../calendar).**
+There will be nine graded assignments, roughly one per week.  You are encouraged to complete all of them on time.  If you submit an assignment within seven days of the due date, the TAs will calculate the grade you would have received if it had been on time, but you will receive a zero.  Your total assignment grade will be calculated as a weighted sum of your nine assignments' grades.  Most assignments will have a weight of one; your best two assignments will be doubly weighted, and your worst two assignments will get a weight of zero.  (This means that your highest-graded two assignments will be worth 11.11% of your grade, the middle five will be worth 5.56% of your grade, and the worst-graded two will be worth 0% of your grade.)  Because we have built this slack into the grading system, and because you will still receive feedback on work that is slightly late, there will be no exceptions to our policy of zero credit for late work.  **Precise assignment deadlines are shown on the [course calendar](../calendar).**
 
 - [Assignment 0](assets/docs/A0.pdf), which is ungraded, is a tool for you to assess your preparedness for this course.
-- [Assignment 1](assets/docs/A1.pdf)
-- [Assignment 2](assets/docs/A2.pdf)
-- [Assignment 3](assets/docs/A3.pdf)
-- [Assignment 4](assets/docs/A4.pdf)
-- [Assignment 5](assets/docs/A5.pdf)
-- [Assignment 6](assets/docs/A6.pdf)
-- [Assignment 7](assets/docs/A7.pdf)
-- [Assignment 8](assets/docs/A8.pdf)
-- [Assignment 9](assets/docs/A9.pdf)
+- [Assignment 1](assets/docs/A1.pdf) is designed to advance your understanding of text classification, feature design and selction, the evaluation of classifiers, and the mathematics of some important classification models.
+- [Assignment 2](assets/docs/A2.pdf) is designed to advance your understanding of frequency information in text data and some mathematical properties of language models.
+- [Assignment 3](assets/docs/A3.pdf) is designed to advance your understanding of language models.
+- [Assignment 4](assets/docs/A4.pdf) is designed to advance your understanding of word embeddings and NLP models that make use of them.
+- [Assignment 5](assets/docs/A5.pdf) is designed to advance your understanding of ethical matters that arise in NLP.
+- [Assignment 6](assets/docs/A6.pdf) is designed to advance your understanding of sequence models. 
+- [Assignment 7](assets/docs/A7.pdf) is designed to give you more practical hands-on experience with sequence labeling.
+- [Assignment 8](assets/docs/A8.pdf)  is designed to advance your understanding of structured problems in NLP that deal with segmentation, trees, and logical forms.
+- [Assignment 9](assets/docs/A9.pdf) is designed to give you more practical hands-on experience with sequence-to-sequence methods.
 
 ### Project 
 
