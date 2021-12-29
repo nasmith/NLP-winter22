@@ -1,5 +1,5 @@
 ---
-title: Finale
+title: Bonus Topics and Finale
 ---
 
 M 7 Mar
@@ -12,4 +12,4 @@ Th 3 Mar
 : **Section**{: .label .label-purple } [TBD](#)
 
 F 11 Mar
-:  Finale lecture
+:  Final lecture
