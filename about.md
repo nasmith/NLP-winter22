@@ -72,6 +72,10 @@ Details on the projects for CSE 447 and CSE 517 are given in the instructions do
 
 There will be quizzes posted on Canvas, roughly once per week.  These are not graded on correctness; as long as you submit an attempt on time, you will earn full credit for the quiz.
 
+## Computing
+
+Details about computational resources you may use for assignments and projects in this course are forthcoming.
+
 ## Resources
 
 - Textbook:  [Introduction to Natural Language Processing by Jacob Eisenstein (2019).  MIT Press.](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843/)
