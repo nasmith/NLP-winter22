@@ -43,7 +43,7 @@ You are encouraged to come to live lectures and participate in the discussions. 
 
 ## Grades
 
-You will be evaluated based on individually completed assignments (50%), a project completed in a team of three (40%), and quizzes (10%).  Course staff may grant extra credit (up to 5%) to students who actively and meaningfully engage on the course discussion board.
+You will be evaluated based on individually completed assignments (50%), a project completed in a team of three (40%), and quizzes (10%).  Course staff may grant extra credit (up to 5%) to students who actively and meaningfully engage on the course discussion board.  To give you a rough idea of how your final grade depends on your total score (calculated out of 100 points), the mapping from points to a final grade (for CSE 447 students in winter 2021 who earned between 66 and 100 points) was approximately 0.3677 + 0.0363 * #points, rounded to the UW scale.  Depending on the distribution of scores this year, the mapping might, of course, be very different.  Final grades for students registered from CSE 447 and CSE 517 are calculated separately based on their respective distributions.
 
 ### Assignments
 
@@ -62,9 +62,11 @@ There will be nine graded assignments, roughly one per week.  You are encouraged
 
 ### Project 
 
-Details on the projects for CSE 447 and CSE 517 will be added here.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
+Details on the projects for CSE 447 and CSE 517 are given in the instructions documents below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
 
-- [Individual project updates](https://forms.gle/BEbvYMVHEyyxSRD47).
+- [CSE 447 project instructions](assets/docs/project-447.pdf)
+- [Individual project updates](https://forms.gle/5sT36SqxhDKzgn259)
+
 
 ### Quizzes
 
