@@ -15,7 +15,7 @@ Below, we briefly describe the accommodations for students having to miss class 
 
 - Lecture sessions: Course content is posted as a set of readings/videos that can be watch asynchronously.
 - Quiz sections:   Material (including solutions) will be posted on the course website.
-- Support hours:  We will offer remote support hours each week.  As always, if you need to schedule a separate time to meet with course staff because none of the scheduled office hours work, [use this form]().
+- Support hours:  We will offer remote support hours each week.  As always, if you need to schedule a separate time to meet with course staff because none of the scheduled office hours work, [use this form](https://forms.gle/ei8WawS12xY2hymh7).
 - Asynchronous help via the Ed discussion board:   post online to get asynchronous help from a member of the course staff or your peers.
 
 ## Masking

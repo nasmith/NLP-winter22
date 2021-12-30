@@ -9,7 +9,7 @@ Th 27 Jan
 : **Section**{: .label .label-purple } [PyTorch](#)
 
 F 28 Jan
-: Lecture; [CSE 447 project checkpoint 1](assets/docs/project-447.pdf) at 11:59 pm  **deadline**{: .label .label-red }
+: Lecture; [CSE 447 project checkpoint 1](assets/docs/project-447.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
 M 31 Jan
 : Lecture

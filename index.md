@@ -24,13 +24,12 @@ seo:
 - This course's [Canvas page](https://canvas.uw.edu/courses/1515305)
 - [Petition for an add code](https://forms.gle/zXqCXoZbopS5qgvp6)
   (closes at 5pm Pacific time on January 5)
-
+- [Request a private follow-up from course staff](https://forms.gle/ei8WawS12xY2hymh7)
+ 
 Coming soon:
 
 - Ed discussion board
-- Request a private meeting with course staff
 - Guide to computing infrastructure
-
 
 
 

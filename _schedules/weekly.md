@@ -26,7 +26,7 @@ schedule:
         start: 8:30 AM
         end: 9:20 AM
         location: CSE2 G20
-      - name: Office Hour (Noah)
+      - name: Support Hour (Noah)
         start: 9:30 AM
         end: 10:30 AM
         location: CSE 532

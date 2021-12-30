@@ -12,7 +12,7 @@ F 11 Feb
 : Lecture
 
 T 15 Feb
-: [CSE 447 project checkpoint 2](assets/docs/project-447.pdf) at 11:59 pm  **deadline**{: .label .label-red }
+: [CSE 447 project checkpoint 2](assets/docs/project-447.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
 Th 17 Feb
 : **Section**{: .label .label-purple } [Conditional random fields](#)
