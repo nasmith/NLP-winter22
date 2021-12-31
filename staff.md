@@ -6,6 +6,8 @@ description: A listing of all the course staff members.
 
 # Staff
 
+[Request a followup from course staff here.](../followup)
+
 <!--- Staff information is stored in the `_staffers` directory and -->
 <!--rendered according to the layout file, -->
 <!--`_layouts/staffer.html`. --->
