@@ -50,7 +50,7 @@ schedule:
       - name: Section C
         start: 12:30 PM
         end: 1:20 PM
-        location: TBD
+        location: FSH 107
       - name: Section D
         start: 1:30 PM
         end: 2:20 PM
