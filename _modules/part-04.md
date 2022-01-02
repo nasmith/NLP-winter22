@@ -7,13 +7,13 @@ W 2 Feb
 [video from 2021](https://drive.google.com/file/d/1MDj3JUBecLOqCMApOWlxG0ZOxmZcQC20/view?usp=sharing)
 ([with captions](https://drive.google.com/file/d/1zXXPwAFycgIRK-25TctN5IIvo7W2H-ii/view?usp=sharing);
 [transcript](https://drive.google.com/file/d/16DyBtGwSOUHVcSMN-hvCWsc0awCyX_n2/view?usp=sharing);
-[slides](https://drive.google.com/file/d/1ejcGyncrh5lSe_P7TRX8Slj_roZUWq2p/view?usp=sharing)); [A4](assets/docs/A4.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+[slides](https://drive.google.com/file/d/1ejcGyncrh5lSe_P7TRX8Slj_roZUWq2p/view?usp=sharing)); [A4](../assets/docs/A4.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 F 4 Feb
 : Lecture
 
 W 9 Feb
-: [A5](assets/docs/A5.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
+: [A5](../assets/docs/A5.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 Th 10 Feb
 : **Section**{: .label .label-purple } [Finite-state machines](#)
