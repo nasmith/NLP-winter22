@@ -19,8 +19,7 @@ seo:
 
 ## Useful Links
 
--
-  [Ed discussion board](https://edstem.org/us/courses/16743/discussion/)
+- [Ed discussion board](https://edstem.org/us/courses/16743/discussion/)
   for registered participants
 - [Zoom join link](https://washington.zoom.us/j/92062223315) for the
   first week of classes, which will be online
