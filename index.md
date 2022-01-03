@@ -19,6 +19,9 @@ seo:
 
 ## Useful Links
 
+-
+  [Ed discussion board](https://edstem.org/us/courses/16743/discussion/)
+  for registered participants
 - [Zoom join link](https://washington.zoom.us/j/92062223315) for the
   first week of classes, which will be online
 - This course's [Canvas page](https://canvas.uw.edu/courses/1515305)
@@ -29,7 +32,6 @@ seo:
  
 Coming soon:
 
-- Ed discussion board
 - Guide to computing infrastructure
 
 
