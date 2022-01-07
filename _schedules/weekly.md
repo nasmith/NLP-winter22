@@ -1,5 +1,6 @@
 ---
 timeline:
+  - '8:00 AM'
   - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
@@ -37,7 +38,7 @@ schedule:
       - name: Office Hour (Velocity)
         start: 10:30 AM
         end: 11:30 AM
-        location: Virtual ([zoom](https://zoom.us/j/98388485825))
+        location: Virtual
   - name: Tuesday
     events:
       - name: Office Hour (Gabriel)
@@ -47,7 +48,7 @@ schedule:
       - name: Office Hour (Kaiser)
         start: 11:30 AM
         end: 12:30 PM
-        location: Virtual ([zoom](https://zoom.us/j/96696848963))
+        location: Virtual
   - name: Wednesday
     events:
       - name: Lecture
@@ -57,7 +58,7 @@ schedule:
       - name: Office Hour (Jerome)
         start: 11:30 AM
         end: 12:30 PM
-        location: Virtual ([zoom](https://zoom.us/j/91565173890))
+        location: Virtual
       - name: Office Hour (Ivan)
         start: 4:00 PM
         end: 5:00 PM
@@ -87,7 +88,7 @@ schedule:
       - name: Office Hour (Suchin)
         start: 3:30 PM
         end: 4:30 PM
-        location: Virtual ([zoom](http://washington.zoom.us/my/suchin))
+        location: Virtual
       - name: Office Hour (Leroy)
         start: 5:00 PM
         end: 5:30 PM
@@ -105,5 +106,5 @@ schedule:
       - name: Office Hour (Xiujun)
         start: 3:00 PM
         end: 4:00 PM
-        location: Virtual ([zoom](https://zoom.us/j/96738882902))
+        location: Virtual
 ---
