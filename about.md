@@ -75,7 +75,7 @@ There will be quizzes posted on Canvas, roughly once per week.  These are not gr
 
 ## Computing
 
-Details about computational resources you may use for assignments and projects in this course are forthcoming.
+Please see information about computing resources [here](https://gist.github.com/jerome9189/b5686fdad24532901be7705f1616cd99).
 
 ## Resources
 
