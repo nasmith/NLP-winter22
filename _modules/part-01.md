@@ -12,7 +12,7 @@ F 7 Jan
 : **Virtual**{: .label .label-purple }  Lecture ([slides](../assets/slides/mlr.pdf)) 
 
 M 10 Jan
-: Lecture ([slides](../assets/slides/mlr.pdf)) 
+: Lecture ([slides](../assets/slides/mlr.pdf)) [Quiz 1] is due at 12:30 pm **deadline**{: .label .label-red }
 
 W 12 Jan
 : [A1](../assets/docs/A1.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
