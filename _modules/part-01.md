@@ -9,7 +9,8 @@ Th 6 Jan
 : **Virtual**{: .label .label-purple } **Section**{: .label .label-purple } [Gradient descent](../assets/slides/Section_1.pdf) 
 
 F 7 Jan 
-: **Virtual**{: .label .label-purple }  Lecture ([slides](../assets/slides/mlr.pdf)) 
+: **Virtual**{: .label .label-purple }  Lecture
+([slides](../assets/slides/mlr.pdf), up to slide 56) 
 
 M 10 Jan
 : Lecture ([slides](../assets/slides/mlr.pdf)) [Quiz 1] is due at 12:30 pm **deadline**{: .label .label-red }
