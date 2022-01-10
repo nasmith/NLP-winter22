@@ -23,10 +23,6 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Office Hour (Leroy)
-        start: 8:00 AM
-        end: 8:30 AM
-        location: Allen 4th Floor Breakout
       - name: Lecture
         start: 8:30 AM
         end: 9:20 AM
@@ -89,10 +85,6 @@ schedule:
         start: 3:30 PM
         end: 4:30 PM
         location: Virtual
-      - name: Office Hour (Leroy)
-        start: 5:00 PM
-        end: 5:30 PM
-        location: Allen 4th Floor Breakout
   - name: Friday
     events:
       - name: Lecture
@@ -102,6 +94,10 @@ schedule:
       - name: Office Hour (Tobi)
         start: 9:30 AM
         end: 10:30 AM
+        location: Allen 4th Floor Breakout
+      - name: Office Hour (Leroy)
+        start: 1:00 PM
+        end: 2:00 PM
         location: Allen 4th Floor Breakout
       - name: Office Hour (Xiujun)
         start: 3:00 PM
