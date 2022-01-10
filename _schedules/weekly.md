@@ -27,21 +27,21 @@ schedule:
         start: 8:30 AM
         end: 9:20 AM
         location: CSE2 G20
-      - name: Office Hour (Noah)
+      - name: Noah's OH
         start: 9:30 AM
         end: 10:30 AM
         location: CSE 532
-      - name: Office Hour (Velocity)
+      - name: Velocity's OH
         start: 10:30 AM
         end: 11:30 AM
         location: Virtual
   - name: Tuesday
     events:
-      - name: Office Hour (Gabriel)
+      - name: Gabriel's OH
         start: 9:00 AM
         end: 10:00 AM
         location: Allen 4th Floor Breakout
-      - name: Office Hour (Kaiser)
+      - name: Kaiser's OH
         start: 11:30 AM
         end: 12:30 PM
         location: Virtual
@@ -51,11 +51,11 @@ schedule:
         start: 8:30 AM
         end: 9:20 AM
         location: CSE2 G20
-      - name: Office Hour (Jerome)
+      - name: Jerome's OH
         start: 11:30 AM
         end: 12:30 PM
         location: Virtual
-      - name: Office Hour (Ivan)
+      - name: Ivan's OH
         start: 4:00 PM
         end: 5:00 PM
         location: Allen 3rd Floor Breakout
@@ -81,7 +81,7 @@ schedule:
         start: 2:30 PM
         end: 3:20 PM
         location: MOR 225
-      - name: Office Hour (Suchin)
+      - name: Suchin's OH
         start: 3:30 PM
         end: 4:30 PM
         location: Virtual
@@ -91,15 +91,15 @@ schedule:
         start: 8:30 AM
         end: 9:20 AM
         location: CSE2 G20
-      - name: Office Hour (Tobi)
+      - name: Tobi's OH
         start: 9:30 AM
         end: 10:30 AM
         location: Allen 4th Floor Breakout
-      - name: Office Hour (Leroy)
+      - name: Leroy's OH
         start: 1:00 PM
         end: 2:00 PM
         location: Allen 4th Floor Breakout
-      - name: Office Hour (Xiujun)
+      - name: Xiujun's OH
         start: 3:00 PM
         end: 4:00 PM
         location: Virtual
