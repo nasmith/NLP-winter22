@@ -60,6 +60,8 @@ There will be nine graded assignments, roughly one per week.  You are encouraged
 - [Assignment 8](assets/docs/A8.pdf)  is designed to advance your understanding of structured problems in NLP that deal with segmentation, trees, and logical forms.
 - [Assignment 9](assets/docs/A9.pdf) is designed to give you more practical hands-on experience with sequence-to-sequence methods.
 
+Solving extra credit problems in an assignment increases your grade for that particular assignment.
+
 ### Project 
 
 Details on the projects for CSE 447 and CSE 517 are given in the instructions documents below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
