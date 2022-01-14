@@ -9,7 +9,7 @@ Th 13 Jan
 : **Section**{: .label .label-purple } [Probability review](../assets/slides/Section_2.pdf); [A1](../assets/docs/A1.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 F 14 Jan
-: Lecture ([slides](../assets/slides/lm.pdf))
+: Lecture ([slides](../assets/slides/lm.pdf), up to slide 50)
 
 M 17 Jan
   : No lecture (MLK holiday)
