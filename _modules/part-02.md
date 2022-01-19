@@ -15,7 +15,7 @@ M 17 Jan
   : No lecture (MLK holiday)
 
 W 19 Jan
-: Lecture ([slides](../assets/slides/lm.pdf)); [A2](../assets/docs/A2.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [A3](../assets/docs/A3.pdf) 
+: Lecture ([slides](../assets/slides/lm.pdf), up to slide 95); [A2](../assets/docs/A2.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [A3](../assets/docs/A3.pdf) 
 
 Th 20 Jan
 : **Section**{: .label .label-purple } [Neural language models](#)
