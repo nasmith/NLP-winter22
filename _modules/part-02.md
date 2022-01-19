@@ -26,5 +26,5 @@ F 21 Jan
 M 24 Jan
 : Lecture ([slides](../assets/slides/lm.pdf))
 
-W 26 Jan
+F 28 Jan
 : [A3](../assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
