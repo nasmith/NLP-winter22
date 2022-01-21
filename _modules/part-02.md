@@ -21,7 +21,7 @@ Th 20 Jan
 : **Section**{: .label .label-purple }[Neural language models](../assets/slides/Section_3.pdf)
 
 F 21 Jan
-: Lecture ([slides](../assets/slides/lm.pdf)); [CSE 517 project proposal](../assets/docs/project-517.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
+: Lecture ([slides](../assets/slides/lm.pdf), up to slide 122); [CSE 517 project proposal](../assets/docs/project-517.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
 M 24 Jan
 : Lecture ([slides](../assets/slides/lm.pdf))
