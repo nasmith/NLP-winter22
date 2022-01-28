@@ -9,7 +9,7 @@ Th 27 Jan
 : **Section**{: .label .label-purple } [PyTorch](../assets/slides/Section_4.pdf)
 
 F 28 Jan
-: Lecture ([slides](../assets/slides/vectors.pdf));
+: Lecture ([slides](../assets/slides/vectors.pdf), up to slide 40);
 [CSE 447 project checkpoint 1](../assets/docs/project-447.pdf) is due
 at 11:59 pm  **deadline**{: .label .label-red };  [A3](../assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
