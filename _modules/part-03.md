@@ -14,7 +14,7 @@ F 28 Jan
 at 11:59 pm  **deadline**{: .label .label-red };  [A3](../assets/docs/A3.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
 M 31 Jan
-: Lecture ([slides](../assets/slides/vectors.pdf))
+: Lecture ([slides](../assets/slides/vectors.pdf), up to slide 62)
 
 W 2 Feb
 : Lecture ([slides](../assets/slides/vectors.pdf))
