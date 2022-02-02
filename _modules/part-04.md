@@ -10,7 +10,7 @@ F 4 Feb
 [slides](https://drive.google.com/file/d/1ejcGyncrh5lSe_P7TRX8Slj_roZUWq2p/view?usp=sharing));
 [A4](../assets/docs/A4.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
 
-W 9 Feb
+M 7 Feb
 : Lecture ([slides](../assets/slides/wfst.pdf))
 
 Th 10 Feb
