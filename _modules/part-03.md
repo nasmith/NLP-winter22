@@ -20,7 +20,7 @@ W 2 Feb
 : Lecture ([slides](../assets/slides/vectors.pdf))
 
 Th 3 Feb
-: **Section**{: .label .label-purple } [Vector embeddings](#)
+: **Section**{: .label .label-purple } [Vector embeddings](../assets/slides/Section_5.pdf)
 
 F 4 Feb
 :  [A4](../assets/docs/A4.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [A5](../assets/docs/A5.pdf) 
