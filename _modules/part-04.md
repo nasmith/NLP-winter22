@@ -14,7 +14,7 @@ M 7 Feb
 : Lecture ([slides](../assets/slides/wfst.pdf))
 
 Th 10 Feb
-: **Section**{: .label .label-purple } [Finite-state machines](#)
+: **Section**{: .label .label-purple } [Finite-state machines](../assets/slides/Section_6.pdf)
 
 F 11 Feb
 : [A5](../assets/docs/A5.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
