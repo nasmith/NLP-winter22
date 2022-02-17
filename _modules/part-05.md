@@ -16,7 +16,7 @@ T 15 Feb
 : [CSE 447 project checkpoint 2](../assets/docs/project-447.pdf) is due at 11:59 pm  **deadline**{: .label .label-red }
 
 Th 17 Feb
-: **Section**{: .label .label-purple } [Conditional random fields](#)
+: **Section**{: .label .label-purple } [Conditional random fields](../assets/slides/Section_7.pdf)
 
 F 18 Feb
 : [A6](../assets/docs/A6.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [A7](../assets/docs/A7.pdf) 
