@@ -12,6 +12,9 @@ F 18 Feb
 M 21 Feb
 : No lecture (university holiday)
 
+T 22 Feb
+: Quiz 7 is due at 11:59 pm **deadline**{: .label .label-red };
+
 W 23 Feb
 : Lecture ([slides](../assets/slides/lsp.pdf)); [CSE 517 project version 1](../assets/docs/project-517.pdf) is
 due at 11:59 pm  **deadline**{: .label .label-red }
