@@ -7,7 +7,7 @@ W 16 Feb
 
 
 F 18 Feb
-: Lecture ([slides](../assets/slides/lsp.pdf)); [A6](../assets/docs/A6.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [A7](../assets/docs/A7.pdf) 
+: Lecture ([slides](../assets/slides/lsp.pdf), up to slide 67); [A6](../assets/docs/A6.pdf) is due at 11:59 pm **deadline**{: .label .label-red }; start [A7](../assets/docs/A7.pdf) 
 
 M 21 Feb
 : No lecture (university holiday)
@@ -16,7 +16,7 @@ T 22 Feb
 : Quiz 7 is due at 11:59 pm **deadline**{: .label .label-red };
 
 W 23 Feb
-: Lecture ([slides](../assets/slides/lsp.pdf)); [CSE 517 project version 1](../assets/docs/project-517.pdf) is
+: Lecture ([slides](../assets/slides/lsp.pdf), up to slide 97); [CSE 517 project version 1](../assets/docs/project-517.pdf) is
 due at 11:59 pm  **deadline**{: .label .label-red }
 
 Th 24 Feb
