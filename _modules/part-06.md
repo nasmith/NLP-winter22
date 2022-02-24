@@ -20,7 +20,7 @@ W 23 Feb
 due at 11:59 pm  **deadline**{: .label .label-red }
 
 Th 24 Feb
-: **Section**{: .label .label-purple } [Linguistic structure prediction](#)
+: **Section**{: .label .label-purple } [Linguistic structure prediction](../assets/slides/Section_8.pdf)
 
 F 25 Feb
 : Lecture ([slides](../assets/slides/lsp.pdf)); [A7](../assets/docs/A7.pdf) is due at 11:59 pm **deadline**{:
