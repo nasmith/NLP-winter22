@@ -9,7 +9,7 @@ T 1 Mar:
 Quiz 8 is due at 11:59 pm **deadline**{: .label .label-red }
 
 W 2 Mar
-: Lecture ([slides](../assets/slides/seq2seq.pdf))
+: Lecture ([slides](../assets/slides/seq2seq.pdf), up to slide 66)
 
 Th 3 Mar
 : **Section**{: .label .label-purple } [Machine translation](#)
