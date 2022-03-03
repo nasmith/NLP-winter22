@@ -3,12 +3,12 @@ title: Bonus Topics and Finale
 ---
 
 M 7 Mar
-: Lecture (guest lecture by Sofia Serrano on a current topic in NLP research)
+: Lecture (guest lecture by Sofia Serrano on interpretability in
+current NLP)
 
 W 9 Mar
 : Lecture (guest lecture by
-[Hila Gonen](https://u.cs.biu.ac.il/~gonenhi/) on a current topic in
-NLP research)
+[Hila Gonen](https://u.cs.biu.ac.il/~gonenhi/) on gender bias in NLP models)
 
 Th 3 Mar
 : **Section**{: .label .label-purple } [TBD](#)
