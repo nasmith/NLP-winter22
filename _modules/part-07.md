@@ -12,7 +12,7 @@ W 2 Mar
 : Lecture
 
 Th 3 Mar
-: **Section**{: .label .label-purple } [Machine translation](#)
+: **Section**{: .label .label-purple } [Machine translation](../assets/slides/Section_9.pdf)
 
 F 4 Mar
 : Lecture; [A8](../assets/docs/A8.pdf) is due at 11:59 pm **deadline**{: .label .label-red };  start [A9](../assets/docs/A9.pdf) 
