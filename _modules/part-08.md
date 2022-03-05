@@ -6,6 +6,9 @@ M 7 Mar
 : Lecture (guest lecture by Sofia Serrano on interpretability in
 current NLP)
 
+T 8 Mar
+: Quiz 9 is due at 11:59 pm **deadline**{: .label .label-red }
+
 W 9 Mar
 : Lecture (guest lecture by
 [Hila Gonen](https://u.cs.biu.ac.il/~gonenhi/) on gender bias in NLP models)
