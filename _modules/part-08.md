@@ -11,7 +11,8 @@ T 8 Mar
 
 W 9 Mar
 : Guest lecture by
-[Hila Gonen](https://u.cs.biu.ac.il/~gonenhi/) on gender bias in NLP models
+[Hila Gonen](https://u.cs.biu.ac.il/~gonenhi/) on gender bias in NLP
+models ([slides](../assets/slides/genderbias.pdf))
 
 Th 3 Mar
 : **Section**{: .label .label-purple } [TBD](#)
