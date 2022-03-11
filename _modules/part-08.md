@@ -15,7 +15,7 @@ W 9 Mar
 models ([slides](../assets/slides/genderbias.pdf))
 
 Th 3 Mar
-: **Section**{: .label .label-purple } [TBD](#)
+: **Section**{: .label .label-purple } [Neural Machine Translation](../assets/slides/Section_10.pdf)
 
 F 11 Mar
 :  Final lecture ([slides](../assets/slides/finale.pdf));  [A9](../assets/docs/A9.pdf) is due at 11:59 pm **deadline**{: .label .label-red }
